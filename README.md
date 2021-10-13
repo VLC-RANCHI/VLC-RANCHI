@@ -1,4 +1,4 @@
-- 👋 Hi, I’m VISHAL_KUMAR
+- 👋 Hi, I’m VLC_VISHAL
 - 👀 I’m interested in IT Technologies/Software/Linux & research.
 - 🌱 I’m currently learning Github & LinkedIn.
 - 💞️ I’m looking to collaborate on Software Development.
